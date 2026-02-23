@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Student Management System Created Using Django
 This is a Simple Student Management System Developed While Learning Django.
 Feel free to make changes based on your requirements.
@@ -205,3 +206,7 @@ Password: stu@2001
 
 
 
+=======
+# College-Student-Management-System-Created-Using-Django
+This is a Simple Student Management System Developed While Learning Django. Feel free to make changes based on your requirements.
+>>>>>>> 91a6bba06b333da41cb63630337eb86f791244fa
